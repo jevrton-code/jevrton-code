@@ -10,7 +10,7 @@
 
 <h3 align="center">BIO</h3>
 <h4 align="center">
-    Auto didata, atualmente sou um <b>Desenvolvedor Full Stack Pleno</b>. <br />
+    Autodidata, atualmente sou um <b>Desenvolvedor Full Stack Pleno</b>. <br />
     Trabalho integralmente na empresa <b>Leigado</b>. <br />
     <br />
     Estou sempre procurando excelência no que faço, inovações e novas formas de fazer e ver as coisas.
